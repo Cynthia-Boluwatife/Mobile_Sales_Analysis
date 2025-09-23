@@ -66,11 +66,18 @@ SELECT COUNT (DISTINCT Brand) AS Num_of_Brand FROM [dbo].[mobile_sales];
 ## Visualization
 ### Pivot Tables
 
+<img width="1621" height="692" alt="MOBILE DATASET PIVOT TABLE (EXCEL)" src="https://github.com/user-attachments/assets/0554b252-556a-4c96-b979-2feef888403e" />
+
 
 ### Charts
 
+<img width="2185" height="1090" alt="MOBILE DATASET EXCEL VISUAL" src="https://github.com/user-attachments/assets/5ffde887-0bb0-410e-a6ef-e1ea35a33381" />
+
 
 ### SQL SINGLE VISUALS
+
+<img width="1855" height="851" alt="SQL QUERY SHEET (Mobile dataset)" src="https://github.com/user-attachments/assets/6d79f439-8230-46e6-b9e2-bb0410179b00" />
+
 
 ### PowerBI Dashboard
 
