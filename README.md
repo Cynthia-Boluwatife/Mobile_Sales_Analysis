@@ -101,7 +101,6 @@ SELECT COUNT (DISTINCT Brand) AS Num_of_Brand FROM [dbo].[mobile_sales];
 #### Total Sales By Age Category
 
 
-#### Total Sales By Level of Preferred Payment Method, and Customer Gender
 
 
 [View_my_Linkedin Profile](https://www.linkedin.com/in/cynthia-boluwatife)
