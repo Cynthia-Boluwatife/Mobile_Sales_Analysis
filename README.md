@@ -58,6 +58,11 @@ GROUP BY PaymentMethod
 ORDER BY Sales DESC;
 
 ---4. Retrive the most expensive brand---
+
+SELECT MAX (Price) AS Price,Brand FROM [dbo].[mobile_sales cvs]
+GROUP BY Brand
+ORDER BY Price DESC;
+
 ---5.How many brands are there---
 
 SELECT COUNT (DISTINCT Brand) AS Num_of_Brand FROM [dbo].[mobile_sales];
