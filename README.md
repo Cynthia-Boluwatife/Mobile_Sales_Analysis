@@ -23,7 +23,7 @@ www.kaggle.com/dataset
 
 ## Table Outlay:
 
-First Three Records:
+First Four Records:
 
 |TransactionID| Date |MobileModel |Brand |Price |UnitsSold |TotalRevenue |CustomerAge |CustomerGender |Location |PaymentMethod
 |----------------|----------------|----------------|----------------|----------------|----------------|----------------|----------------|----------------|----------------|----------------|
