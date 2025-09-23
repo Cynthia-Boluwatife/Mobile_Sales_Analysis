@@ -10,7 +10,7 @@ Mobile-Sales-Analysis
 
 ---
 ## Project Overview
-> >This project analyzes the sales of Mobile Product to uncover the insights on sales distributio by arious attributes such as Brands, Customer Gender and payment methods. Using Pivot tables, I explored metrics like total sales by Payment Method and Gender, average income of buyers, gender distribution and overall revenue. This analysis helps to understand the key factors driving sales in the dataset provided.
+> >This project analyzes the sales of Mobile Sales Products to uncover insights on sales distribution by various attributes such as Brands, Customer Gender and Payment Method, Using pivot tables, I explored metrics like Total Revenue Sales by Payment Method, Total Revenue Sales by Gender and their prefered Payment Method, Total Unit Sold by Payment Method and Total Unit sold by Gender, This analysis helps to understand the key factors driving sales in the dataset provided.
 
 ##  Dataset Source  
 www.kaggle.com/dataset
