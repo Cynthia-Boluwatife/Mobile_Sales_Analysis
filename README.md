@@ -87,9 +87,15 @@ SELECT COUNT (DISTINCT Brand) AS Num_of_Brand FROM [dbo].[mobile_sales];
 ### PowerBI Dashboard
 
 
+
 ### PowerBI Single Visual
 
+### Total Sales by PaymentMethod and Customer Gender
+
+
+
 #### Total Sales By customers
+
 
 
 #### Total Sales By Age Category
