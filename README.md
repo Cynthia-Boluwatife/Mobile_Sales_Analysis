@@ -70,6 +70,8 @@ SELECT COUNT (DISTINCT Brand) AS Num_of_Brand FROM [dbo].[mobile_sales];
 ### Charts
 
 
+### SQL SINGLE VISUALS
+
 ### PowerBI Dashboard
 
 
