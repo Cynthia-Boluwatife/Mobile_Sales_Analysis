@@ -85,22 +85,27 @@ SELECT COUNT (DISTINCT Brand) AS Num_of_Brand FROM [dbo].[mobile_sales];
 
 
 ### PowerBI Dashboard
+<img width="1253" height="713" alt="POWERBI DASH BOARD MOBILE SET" src="https://github.com/user-attachments/assets/369c2803-4117-4362-9e6a-53d01e1a318c" />
 
 
 
 ### PowerBI Single Visual
 
+
 ### Total Sales by PaymentMethod and Customer Gender
+<img width="917" height="504" alt="mobile sales dataset single visual powerbi" src="https://github.com/user-attachments/assets/33ab3cb4-3308-4b22-af83-7d716074a5a5" />
 
 
 
 #### Total Sales By customers
+<img width="953" height="532" alt="Total sales by customer single visual powerbi" src="https://github.com/user-attachments/assets/ac6eeb7c-6046-4ca5-a4fc-a70837e38746" />
 
 
 
 #### Total Sales By Age Category
 
 
+<img width="1128" height="640" alt="Total sales by Age category single visual powerbi" src="https://github.com/user-attachments/assets/2d53b1a5-fd01-45bb-9e5d-6f7a0dcf1b12" />
 
 
 [View_my_Linkedin Profile](https://www.linkedin.com/in/cynthia-boluwatife)
